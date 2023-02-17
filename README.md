@@ -35,8 +35,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Repositorio](https://github.com/JoseFGuzman/Frontend-Mentor-1.git)
+- Live Site URL: [GitHub Page](https://JoseFGuzman.github.io/Frontend-Mentor-1.git/)
 
 ## My process
 
