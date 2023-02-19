@@ -40,13 +40,13 @@ Una vez que tenemos el html lo siguiente es el CSS pero antes de empezar a escri
 En este desafio la tarjeta debia tener un ancho especifico de 320px, por que se decidio trabajar con box-sizing: border-box para que el padding estuviera contemplado en esa medida. Eso dejaria el ancho del contenido de la tarjeta en (320px - padding), ancho que seria el width de la imagen QR (width: 100%).
 ![Paso 3 - a](/images/paso-3b.png)
 
-n este caso se decidio trabajar con la metodoligía BEM.
+En este caso se decidio trabajar con la metodoligía BEM.
 
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
 - Flexbox
+- Metodología BEM
 
 ## Author
 
